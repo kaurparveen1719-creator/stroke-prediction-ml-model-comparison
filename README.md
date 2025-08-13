@@ -30,21 +30,21 @@ The following models were implemented and compared:
 
 ## 📈 Results
 
-### Model Comparison  
-![Model Comparison](Model_comparison.png)
+### Model Comparison
+![Model Comparison](results/Model_comparison.png)
 
-### Learning Curves  
+### Learning Curves
 - **SVM**  
-  ![SVM Learning Curve](learning_curve_SVM.png)  
+  ![SVM Learning Curve](results/learning_curve_SVM.png)
 
 - **Random Forest**  
-  ![Random Forest Learning Curve](learning_curve_RF.png)  
+  ![Random Forest Learning Curve](results/learning_curve_RF.png)
 
-- **Multi-Layer Perceptron**  
-  ![MLP Learning Curve](learning_curve_MLP.png)  
+- **Multi-Layer Perceptron (MLP)**  
+  ![MLP Learning Curve](results/learning_curve_MLP.png)
 
 - **Perceptron**  
-  ![Perceptron Learning Curve](learning_curve_precptron.png)  
+  ![Perceptron Learning Curve](results/learning_curve_precptron.png)
 
 ---
 
