@@ -2,7 +2,7 @@
 
 This project compares multiple machine learning models for predicting the likelihood of stroke occurrence using medical and demographic features.  
 The goal is to evaluate the performance of different algorithms and identify the most accurate one for this classification task.
-🔗 [View Notebook on Kaggle](https://www.kaggle.com/code/parveenkaur17/stroke-prediction-ml-model-comparison)
+🔗 [View Notebook on Kaggle]([https://www.kaggle.com/code/parveenkaur17/stroke-prediction-ml-model-comparison](https://www.kaggle.com/code/parveenkaur17/stroke-prediction-ml-model-comparison))
 
 ---
 
